@@ -1,0 +1,81 @@
+.email{
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 3px 5PX 1px;
+ 
+
+}
+.a1{
+justify-content: space-between;
+margin-left: 30px;
+    color: #000;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.pic{
+    margin-right: 15px;
+}
+.btn{
+    background-color: #00BAFC;
+    display: inline-flex;
+    padding: 8px 16px;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    
+}
+.matnlar{
+    display: flex;
+}
+b{
+    color: #000;
+
+font-family: Open Sans;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 130%;
+}
+h1{ 
+    color: #000;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.youtube{
+    width: 458px;
+height: 258px;
+flex-shrink: 0;
+margin-right: 100px;
+}
+.matnlar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn a{
+    border-radius: 5px;
+background: var(--blue, #00BAFC);
+display: flex;
+padding: 8px 16px;
+align-items: center;
+gap: 10px;
+color: white;
+}
+.matn1{
+    margin-left: 100px;
+}
+.matn1 b{
+    margin-bottom: 16px;
+}
+.matn1 h1{
+    margin-bottom: 16px;
+}
